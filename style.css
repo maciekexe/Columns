@@ -46,19 +46,19 @@ h1 {
 .link {
   background-color: hsl(0, 0%, 95%);
   padding: 10px;
-  border-radius: 40px;
+  border-radius: 10px 10px 10px 10px;
   border-color: hsl(0, 0%, 95%);
   width: 150px;
 }
 
-.div_1 {
+/* .div_1 {
   border-top-left-radius: 15px;
   border-bottom-left-radius: 15px;
 }
 .div_3 {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-}
+} */
 
 .div_1 {
   background-color: hsl(31, 77%, 52%);
